@@ -3,11 +3,11 @@ portfolio-optimization
 
 Portfolio Optimization Project 
 
-Description
-<hr> 
+<h2>Description</h2>
 
-<h1>Sample Output</h1>
-<hr>
+
+<h2>Sample Output</h2>
+
 
 ![My image](http://i.imgur.com/dslbrO5.png)
 
