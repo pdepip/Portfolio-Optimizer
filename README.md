@@ -8,4 +8,4 @@ Description
 
 ![My image](http://imgur.com/0C3eB0x)
 
-![My image](http://imgur.com/pmO8tmW)
+![My image](http://i.imgur.com/pmO8tmW.png)
