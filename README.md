@@ -9,5 +9,5 @@ Portfolio optimizer that utilizes Harry Markowitz's Portfolio Theory and E-V the
 <h2>Sample Output</h2>
 
 <img src="http://i.imgur.com/dslbrO5.png" width=400px height=200px>
-<img src="http://i.imgur.com/pmO8tmW.png" width=500px height=300px>
+<img src="http://i.imgur.com/pmO8tmW.png" width=581px height=454px>
 
