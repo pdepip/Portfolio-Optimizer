@@ -1,8 +1,13 @@
+<<<<<<< Updated upstream
 Portfolio-Optimizer
+=======
+sinusitisportfolio-optimization
+>>>>>>> Stashed changes
 ======================
 
 Portfolio Optimization Project 
 
+<<<<<<< Updated upstream
 <h2>Description</h2>
 Portfolio optimizer that utilizes Harry Markowitz's Portfolio Theory and E-V theory. Generates necessary allocations to achieve desired return with the minimal amount of portfolio variance. Generates efficient frontier and locates user's portfolio along frontier. Uses monthly weighted return data from the Center for Research in Security Prices (www.crsp.com).
 
@@ -12,3 +17,11 @@ Portfolio optimizer that utilizes Harry Markowitz's Portfolio Theory and E-V the
 <img src="http://i.imgur.com/pmO8tmW.png" width=581px height=454px>
 
 
+=======
+Description
+<hr> 
+
+![My image](http://imgur.com/0C3eB0x)
+
+![My image](http://imgur.com/pmO8tmW)
+>>>>>>> Stashed changes
