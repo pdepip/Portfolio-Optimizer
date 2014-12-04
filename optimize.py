@@ -65,7 +65,7 @@ def calculate():
     q = number_of_stocks + 2
     i = 0
 
-    stocks = numpy.loadtxt('test.dat', usecols=range(2, q), delimiter=None, unpack=True, skiprows=1)
+    stocks = numpy.loadtxt('data.csv', delimiter=None, unpack=True)
     arr = stocks
 
     c = 0
