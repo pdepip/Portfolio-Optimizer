@@ -9,10 +9,4 @@ Portfolio optimizer has two interfaces: Security return retrieval and optimizati
 <img src="http://i.imgur.com/pmO8tmW.png" width=581px height=454px>
 
 
-=======
-Description
-<hr> 
 
-![My image](http://imgur.com/0C3eB0x)
-
-![My image](http://imgur.com/pmO8tmW)
