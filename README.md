@@ -1,6 +1,4 @@
-Portfolio-Optimizer
-
-Portfolio Optimization Project 
+<h1>Portfolio Optimizer</h1>
 
 <h2>Overview</h2>
 Portfolio optimizer has two interfaces: Security return retrieval and optimization. Getstocks.py grabs the monthly return of the given securities from yahoo finance. Optimize.py utilizes Harry Markowitz's Portfolio Theory and E-V theory by generating the necessary allocations to achieve desired return with the minimal amount of portfolio variance. Also graphs an efficient frontier and locates user's portfolio along frontier.
